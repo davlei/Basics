@@ -1,0 +1,15 @@
+Sachen die ich mir eh nicht merke:
+
+git init --> erstellt neues Repository im aktuellen Ordner
+
+git status --> aktueller Status des Repositorys
+
+git add --> Dateien hinzufügen
+
+git reset
+
+git commit -m ""
+
+git push 
+
+git pull
