@@ -6,10 +6,12 @@ git status --> aktueller Status des Repositorys
 
 git add --> Dateien hinzufügen
 
-git reset
+git reset --> 
 
 git commit -m ""
 
-git push 
+git push --> Äanderungen hochladen
 
-git pull
+git pull --> Ändeedrungen runterladen
+
+git remote add origin https://....  --> mit online Repository verknüpfen
