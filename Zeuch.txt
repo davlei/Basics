@@ -10,7 +10,7 @@ git reset -->
 
 git commit -m ""
 
-git push --> Äanderungen hochladen
+git push --> Äanderungen hochladen (vorher add und commit)
 
 git pull --> Ändeedrungen runterladen
 
