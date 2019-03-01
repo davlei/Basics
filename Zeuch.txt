@@ -10,8 +10,8 @@ git reset -->
 
 git commit -m ""
 
-git push --> Äanderungen hochladen (vorher add und commit)
+git push --> Änderungen hochladen (vorher add und commit)
 
-git pull --> Ändeedrungen runterladen
+git pull --> Änderungen runterladen
 
 git remote add origin https://....  --> mit online Repository verknüpfen
