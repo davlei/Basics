@@ -15,3 +15,7 @@ git push --> Änderungen hochladen (vorher add und commit)
 git pull --> Änderungen runterladen
 
 git remote add origin https://....  --> mit online Repository verknüpfen
+
+git branch <branchname> --> neuer branch
+
+git chechout <branchname>  --> branch wechseln
